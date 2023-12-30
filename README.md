@@ -5,6 +5,9 @@
 
 # Video tutorial.
 [https://youtube.com/shorts/9CGjlZUfJQg?si=bNyoIuXc7IQTl4Zl]
+
+## Screenshots
+
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
