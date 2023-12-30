@@ -1,5 +1,10 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+# About App.
+
+## Your React Native application combines advanced features, including a ChatGPT-inspired chat system for users to ask and receive answers. Additionally, it integrates voice recognition and text-to-speech functionalities, allowing users to interact seamlessly through audio. The inclusion of Google Assistant for delivering responses adds a sophisticated touch to the user experience. Moreover, your app stands out by incorporating the DALL·E API, enabling users to generate AI-generated images, adding a creative and unique dimension to the overall application.
+
+# Video tutorial.
+[https://youtube.com/shorts/9CGjlZUfJQg?si=bNyoIuXc7IQTl4Zl]
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
