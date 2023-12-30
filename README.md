@@ -8,6 +8,10 @@
 
 ## Screenshots
 
+![WhatsApp Image 2023-12-30 at 22 25 25](https://github.com/lakshay1121/Echo-Art/assets/91718893/1a5fb2e8-3534-47b9-9162-1f7c1929dbbe)
+![WhatsApp Image 2023-12-30 at 22 25 25 (1)](https://github.com/lakshay1121/Echo-Art/assets/91718893/e000922e-1215-4d98-9f13-42cb9e2e12e7)
+![WhatsApp Image 2023-12-30 at 22 25 25 (2)](https://github.com/lakshay1121/Echo-Art/assets/91718893/70dbc586-d273-4fd7-a650-41303549156b)
+
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
